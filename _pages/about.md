@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am co-founder & CTO at [Kotoba Technologies, Inc.](https://kotoba.tech/en), where 
+Welcome! I am co-founder & CTO at [Kotoba Technologies, Inc.](https://kotoba.tech/en/), where 
 our goal is to deploy large language models in Japanese and Asian corporations
 I am also a Research Assistant Professor at the [Toyota Technological Institute at Chicago (TTIC)](https://www.ttic.edu/), located in the University of Chicago campus.
 
