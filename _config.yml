@@ -11,7 +11,7 @@ title                    : "Jungo Kasai"
 title_separator          : "-"
 name                     : &name "Jungo Kasai"
 description              : &description "Co-found & CTO at Kotoba Technologies, Inc."
-url                      : https://jayrobwilliams.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jungokasai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jayrobwilliams/jayrobwilliams.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -91,7 +91,7 @@ author:
   employer         :
   pubmed           :
   #orcid            : "http://orcid.org/0000-0001-9259-3883"
-  googlescholar    : ""
+  googlescholar    : "https://scholar.google.com/citations?user=nHCLoIwAAAAJ&hl"
   email            : "jkasai@kotoba.tech"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
