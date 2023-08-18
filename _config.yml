@@ -56,10 +56,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-mastodon:
-  username               : "fosstodon.org/@jayrobw"
 twitter:
-  username               : 
+  username               :  "jungokasai"
 facebook:
   username               :
   app_id                 :
@@ -233,14 +231,14 @@ defaults:
       share: true
       comments: true
   # _research
-  - scope:
-      path: ""
-      type: research
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+  #- scope:
+  #    path: ""
+  #    type: research
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    share: true
+  #    comment: true
   # _talks
   - scope:
       path: ""
