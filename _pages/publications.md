@@ -17,10 +17,26 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+<sup>*</sup> Equal authorship.
+
 
 <b>Preprints</b>
-{% for post in site.publications reversed %}
+{% for post in site.preprints reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
 <sup>*</sup> Equal authorship
+
+<b>Refereed Workshop Publications</b>
+{% for post in site.workshops reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<sup>*</sup> Equal authorship.
+
+<b>Other Publications (Cardiology etc.)</b>
+{% for post in site.others reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<sup>*</sup> Equal authorship.
