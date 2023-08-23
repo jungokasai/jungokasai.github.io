@@ -34,9 +34,8 @@ author_profile: true
 
 <sup>*</sup> Equal authorship.
 
-<b>Other Publications (Cardiology etc.)</b>
+<b>Other Publications (Work in Cardiology with My Brother, Yuhei Kasai, M.D.)</b>
 {% for post in site.others reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-<sup>*</sup> Equal authorship.
