@@ -2,7 +2,7 @@
 title: "ScisummNet: A Large Annotated Corpus and Content-Impact Models for Scientific Paper Summarization with Citation Networks"
 collection: publications
 permalink: /publication/scisumm
-date: 2019-01-15
+date: 2019-01-02
 venue: 'AAAI'
 paperurl: 'https://arxiv.org/abs/1909.01716'
 link: 'https://arxiv.org/abs/1909.01716'
