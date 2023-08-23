@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jungo Kasai"
 title_separator          : "-"
 name                     : &name "Jungo Kasai"
-description              : &description "Co-found & CTO at Kotoba Technologies, Inc."
+description              : &description "Co-founder & CTO at Kotoba Technologies, Inc."
 url                      : https://jungokasai.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jayrobwilliams/jayrobwilliams.github.io"
@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Jungo Kasai"
   avatar           : "profile.jpeg"
-  bio              : "Co-Founder & CTO @ Kotoba<br/>Research Assistant Professor at TTIC"
+  bio              : "Co-Founder & CTO @ Kotoba Tech<br/>Research Assistant Professor at TTIC"
   location         :
   employer         :
   pubmed           :
