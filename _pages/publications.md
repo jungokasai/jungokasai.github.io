@@ -21,11 +21,11 @@ author_profile: true
 
 
 <b>Preprints</b>
-{% for post in site.preprints reversed %}
+{% for post in site.publications.preprints reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-<sup>*</sup> Equal authorship
+<sup>*</sup> Equal authorship.
 
 <b>Refereed Workshop Publications</b>
 {% for post in site.workshops reversed %}
