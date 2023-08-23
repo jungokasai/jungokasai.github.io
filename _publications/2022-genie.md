@@ -1,5 +1,5 @@
 ---
-title: "{GENIE}: Toward Reproducible and Standardized Human Evaluation for Text Generation"
+title: "GENIE: Toward Reproducible and Standardized Human Evaluation for Text Generation"
 collection: publications
 permalink: /publication/genie
 date: 2022-01-10
