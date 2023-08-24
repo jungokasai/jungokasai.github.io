@@ -1,6 +1,6 @@
 ---
 title: "Selective Annotation Makes Language Models Better Few-Shot Learners"
-collection: preprints
+collection: publications
 permalink: /publication/selective_ann
 date: 2023-01-01
 venue: 'ICLR'
