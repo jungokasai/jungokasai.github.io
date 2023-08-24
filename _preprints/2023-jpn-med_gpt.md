@@ -1,7 +1,7 @@
 ---
 title: "Evaluating GPT-4 and ChatGPT on Japanese Medical Licensing Examinations"
 collection: publications
-permalink: /publication/jpn-med_gpt
+permalink: /preprint/jpn-med_gpt
 date: 2023-12-31
 venue: 'Under Review'
 paperurl: 'https://arxiv.org/abs/2303.18027'
