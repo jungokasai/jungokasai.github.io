@@ -193,6 +193,12 @@ collections:
   preprints:
     output: true
     permalink: /:collection/:path/
+  workshops:
+    output: true
+    permalink: /:collection/:path/
+  others:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults

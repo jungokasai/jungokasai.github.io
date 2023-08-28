@@ -1,7 +1,7 @@
 ---
 title: "Beam Decoding with Controlled Patience"
 collection: publications
-permalink: /preprint/beam_patience
+permalink: /other/beam_patience
 date: 2022-11-01
 venue: 'Under Review'
 paperurl: 'https://arxiv.org/abs/2204.05424'
