@@ -2,7 +2,7 @@
 title: "Large Language Models as Tax Attorneys: A Case Study in Legal Capabilities Emergence"
 collection: publications
 permalink: /preprint/tax-llm
-date: 2023-12-31
+date: 2023-11-01
 venue: 'Under Review'
 paperurl: 'https://arxiv.org/abs/2306.07075'
 link: 'https://arxiv.org/abs/2306.07075'
