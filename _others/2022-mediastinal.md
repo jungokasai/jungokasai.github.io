@@ -2,7 +2,7 @@
 title: "Mediastinal Hematoma Associated With Radiofrequency Catheter Ablation of Atrial Fibrillation"
 collection: publications
 permalink: /other/mediastinal
-date: 2022-12-21
+date: 2022-12-29
 venue: 'Circulation Journal'
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/35965067/'
 link: 'https://pubmed.ncbi.nlm.nih.gov/35965067/'

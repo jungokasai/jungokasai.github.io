@@ -2,7 +2,7 @@
 title: "Silent steam pop detected by transesophageal echocardiography for premature ventricular contractions originating from the aortomitral continuity"
 collection: publications
 permalink: /journal/steampop
-date: 2023-12-26
+date: 2023-12-25
 venue: 'Journal of Echocardiography'
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/37120477/'
 link: 'https://pubmed.ncbi.nlm.nih.gov/37120477/'
